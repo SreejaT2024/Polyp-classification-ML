@@ -1,0 +1,15 @@
+# Active Contour Guided Feature Extraction Pipeline
+# Production & Research Dependencies
+
+numpy>=1.22.0
+opencv-python>=4.6.0
+matplotlib>=3.5.0
+pillow>=9.0.0
+scikit-image>=0.19.0
+scipy>=1.8.0
+pandas>=1.4.0
+pydantic>=1.10.0
+tqdm>=4.64.0
+pytest>=7.0.0
+jupyter>=1.0.0
+notebook>=6.4.0
